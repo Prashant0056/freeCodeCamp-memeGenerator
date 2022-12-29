@@ -110,7 +110,7 @@ function revealAnswers() {
     }else if(riddle){
         alert('Answer is already revealed')
     }else{
-        alert('No riddle to revealanswer to')
+        alert('No riddle to reveal answer to')
     };
 ;}
 
